@@ -1,0 +1,11 @@
+D:\github\FabioSFernandes\xamarin_robot_control\RobotController\RobotController\RobotController.MobileAppService\bin\Debug\netcoreapp2.0\RobotController.MobileAppService.deps.json
+D:\github\FabioSFernandes\xamarin_robot_control\RobotController\RobotController\RobotController.MobileAppService\bin\Debug\netcoreapp2.0\RobotController.MobileAppService.runtimeconfig.json
+D:\github\FabioSFernandes\xamarin_robot_control\RobotController\RobotController\RobotController.MobileAppService\bin\Debug\netcoreapp2.0\RobotController.MobileAppService.runtimeconfig.dev.json
+D:\github\FabioSFernandes\xamarin_robot_control\RobotController\RobotController\RobotController.MobileAppService\bin\Debug\netcoreapp2.0\RobotController.MobileAppService.dll
+D:\github\FabioSFernandes\xamarin_robot_control\RobotController\RobotController\RobotController.MobileAppService\bin\Debug\netcoreapp2.0\RobotController.MobileAppService.pdb
+D:\github\FabioSFernandes\xamarin_robot_control\RobotController\RobotController\RobotController.MobileAppService\obj\Debug\netcoreapp2.0\RobotController.MobileAppService.csprojAssemblyReference.cache
+D:\github\FabioSFernandes\xamarin_robot_control\RobotController\RobotController\RobotController.MobileAppService\obj\Debug\netcoreapp2.0\RobotController.MobileAppService.csproj.CoreCompileInputs.cache
+D:\github\FabioSFernandes\xamarin_robot_control\RobotController\RobotController\RobotController.MobileAppService\obj\Debug\netcoreapp2.0\RobotController.MobileAppService.AssemblyInfoInputs.cache
+D:\github\FabioSFernandes\xamarin_robot_control\RobotController\RobotController\RobotController.MobileAppService\obj\Debug\netcoreapp2.0\RobotController.MobileAppService.AssemblyInfo.cs
+D:\github\FabioSFernandes\xamarin_robot_control\RobotController\RobotController\RobotController.MobileAppService\obj\Debug\netcoreapp2.0\RobotController.MobileAppService.dll
+D:\github\FabioSFernandes\xamarin_robot_control\RobotController\RobotController\RobotController.MobileAppService\obj\Debug\netcoreapp2.0\RobotController.MobileAppService.pdb
